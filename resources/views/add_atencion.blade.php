@@ -28,6 +28,9 @@
                 <label for="receta">Receta</label>
             </div>
             <input type="button" class="btn" value="Guardar" onclick="guardar()"/>
+
+            <hr>
+            <a href="http://127.0.0.1:8000/paciente/2222222-2">Volver</a>
         </form>
 
         </div>
